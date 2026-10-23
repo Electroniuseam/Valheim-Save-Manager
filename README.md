@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Valheim-Save-Manager` · Updated: 2026-10-07
+`Valheim-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `valheim` `save-manager` `survival` `viking` `steam`
